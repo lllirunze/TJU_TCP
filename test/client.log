@@ -1,0 +1,265 @@
+DEBUG: Open thread.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 0:
+	receive depulicated ack102
+	cwnd195, rwnd5932, ssthresh105
+DEBUG: Fast retransmit packet seq102, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack102
+	cwnd225, rwnd5915, ssthresh105
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack102
+	cwnd255, rwnd5915, ssthresh105
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack136
+	cwnd142, rwnd5864, ssthresh52
+DEBUG: Fast retransmit packet seq136, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack136
+	cwnd172, rwnd5847, ssthresh52
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack136
+	cwnd202, rwnd5830, ssthresh52
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack136
+	cwnd232, rwnd5813, ssthresh52
+DEBUG: Fast retransmit packet seq136, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack136
+	cwnd262, rwnd5813, ssthresh52
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack442
+	cwnd144, rwnd5932, ssthresh54
+DEBUG: Fast retransmit packet seq442, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack442
+	cwnd174, rwnd5915, ssthresh54
+WARNING CONGESTION2: timeout interval bonus1.965384
+DEBUG: timeout retransmit packet seq442, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 0:
+	receive depulicated ack442
+	cwnd105, rwnd5864, ssthresh15
+DEBUG: Fast retransmit packet seq442, ack0
+DEBUG: received duplicated ACK.
+WARNING CONGESTION1: timeout interval bonus3.930768
+DEBUG: timeout retransmit packet seq595, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack765
+	cwnd154, rwnd5949, ssthresh64
+DEBUG: Fast retransmit packet seq765, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack765
+	cwnd184, rwnd5932, ssthresh64
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack765
+	cwnd214, rwnd5915, ssthresh64
+WARNING CONGESTION2: timeout interval bonus1.633268
+DEBUG: timeout retransmit packet seq765, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 0:
+	receive depulicated ack782
+	cwnd120, rwnd5847, ssthresh30
+DEBUG: Fast retransmit packet seq782, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack782
+	cwnd150, rwnd5830, ssthresh30
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack782
+	cwnd180, rwnd5830, ssthresh30
+WARNING CONGESTION2: timeout interval bonus3.266536
+DEBUG: timeout retransmit packet seq782, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack1003
+	cwnd140, rwnd5932, ssthresh50
+DEBUG: Fast retransmit packet seq1003, ack0
+WARNING CONGESTION2: timeout interval bonus1.526260
+DEBUG: timeout retransmit packet seq1003, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack1105
+	cwnd135, rwnd5966, ssthresh45
+DEBUG: Fast retransmit packet seq1105, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack1105
+	cwnd165, rwnd5949, ssthresh45
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack1105
+	cwnd195, rwnd5932, ssthresh45
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack1326
+	cwnd155, rwnd5915, ssthresh65
+DEBUG: Fast retransmit packet seq1326, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack1326
+	cwnd185, rwnd5932, ssthresh65
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack1411
+	cwnd122, rwnd5932, ssthresh32
+DEBUG: Fast retransmit packet seq1411, ack0
+WARNING CONGESTION2: timeout interval bonus1.445944
+DEBUG: timeout retransmit packet seq1411, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack1649
+	cwnd155, rwnd5949, ssthresh65
+DEBUG: Fast retransmit packet seq1649, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack1649
+	cwnd185, rwnd5932, ssthresh65
+WARNING CONGESTION2: timeout interval bonus1.340266
+DEBUG: timeout retransmit packet seq1649, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 0:
+	receive depulicated ack1734
+	cwnd120, rwnd5847, ssthresh30
+DEBUG: Fast retransmit packet seq1734, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack1734
+	cwnd150, rwnd5932, ssthresh30
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack1904
+	cwnd138, rwnd5932, ssthresh48
+DEBUG: Fast retransmit packet seq1904, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack2108
+	cwnd144, rwnd5949, ssthresh54
+DEBUG: Fast retransmit packet seq2108, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack2108
+	cwnd174, rwnd5932, ssthresh54
+WARNING CONGESTION2: timeout interval bonus1.306084
+DEBUG: timeout retransmit packet seq2108, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 0:
+	receive depulicated ack2142
+	cwnd120, rwnd5864, ssthresh30
+DEBUG: Fast retransmit packet seq2142, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack2142
+	cwnd150, rwnd5898, ssthresh30
+WARNING CONGESTION2: timeout interval bonus2.612168
+DEBUG: timeout retransmit packet seq2142, ack0
+WARNING CONGESTION0: timeout interval bonus5.224336
+DEBUG: timeout retransmit packet seq2142, ack0
+DEBUG: received duplicated ACK.
+WARNING CONGESTION1: timeout interval bonus10.448672
+DEBUG: timeout retransmit packet seq2244, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack2346
+	cwnd138, rwnd5949, ssthresh48
+DEBUG: Fast retransmit packet seq2346, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack2346
+	cwnd168, rwnd5932, ssthresh48
+WARNING CONGESTION2: timeout interval bonus1.280532
+DEBUG: timeout retransmit packet seq2346, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 0:
+	receive depulicated ack2431
+	cwnd120, rwnd5966, ssthresh30
+DEBUG: Fast retransmit packet seq2431, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack2448
+	cwnd105, rwnd5898, ssthresh15
+DEBUG: Fast retransmit packet seq2448, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack2448
+	cwnd135, rwnd5898, ssthresh15
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 1:
+	receive depulicated ack2737
+	cwnd163, rwnd5932, ssthresh73
+DEBUG: Fast retransmit packet seq2737, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack2737
+	cwnd193, rwnd5915, ssthresh73
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack2737
+	cwnd223, rwnd5898, ssthresh73
+WARNING CONGESTION2: timeout interval bonus1.235512
+DEBUG: timeout retransmit packet seq2737, ack0
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+DEBUG: received duplicated ACK.
+CONGESTION 0:
+	receive depulicated ack2822
+	cwnd120, rwnd5813, ssthresh30
+DEBUG: Fast retransmit packet seq2822, ack0
+DEBUG: received duplicated ACK.
+CONGESTION 2:
+	receive depulicated ack2822
+	cwnd150, rwnd5881, ssthresh30
+DEBUG: received dup
